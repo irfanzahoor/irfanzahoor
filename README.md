@@ -1,7 +1,3 @@
-# 💫 About Me:
-# 💫 About Me:<br>🔭 I’m currently working on a point-of-sale app with Electron.js and Node.js  <br>🤝 I’m looking to collaborate on open-source tools that improve developer productivity  <br>👐 I’m looking for help with integrating ERPNext modules into real-world business cases  <br>🌱 I’m currently learning cloud deployment with Azure and experimenting with Tauri for desktop apps  <br>💬 Ask me about C#, .NET, frontend with Vue.js, or building cross-platform desktop apps  <br>⚡ Fun fact: I once built a weather app that only showed memes when it rained 🌧️😂  <br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irfanzahoor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanzahoor19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/irfan-zahoor/) 
 
