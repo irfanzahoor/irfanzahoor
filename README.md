@@ -57,8 +57,8 @@ My work covers the complete development lifecycle: requirements, architecture, d
 ## Featured Work
 
 - **[Material-Kit](https://github.com/irfanzahoor/Material-Kit)** — Material Design UI kit built for Frappe
-- **[Material-Kit](https://github.com/irfanzahoor/timeflow)** — Trackable — Personal Life Manager
-- **[Material-Kit](https://github.com/irfanzahoor/irfy_desk)** — A modern and professional white-label theme for Frappe/ERPNext v16,
+- **[Trackable](https://github.com/irfanzahoor/timeflow)** — Trackable — Personal Life Manager
+- **[Irfy-desk](https://github.com/irfanzahoor/irfy_desk)** — A modern and professional white-label theme for Frappe/ERPNext v16,
 
 
 ---
