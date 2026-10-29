@@ -115,10 +115,14 @@ My work covers the complete development lifecycle: requirements, architecture, d
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irfanzahoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0089FF&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true" alt="Irfan's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanzahoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0089FF&text_color=C9D1D9&langs_count=8" alt="Irfan's most used languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfanzahoor&theme=tokyonight" alt="Irfan's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfanzahoor&theme=tokyonight" alt="Top languages by repository" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfanzahoor&theme=tokyonight" alt="Top languages by commit" />
 
-<img height="170" src="https://streak-stats.demolab.com/?user=irfanzahoor&theme=tokyonight&hide_border=true&background=0D1117&ring=0089FF&fire=7C3AED&currStreakLabel=0089FF" alt="Contribution streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=irfanzahoor&theme=tokyonight&hide_border=true&background=0D1117&ring=0089FF&fire=7C3AED&currStreakLabel=0089FF" alt="Contribution streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irfanzahoor&theme=tokyonight&utcOffset=5" alt="Productive time of day" />
+
+<img width="100%" src="https://ghchart.rshah.org/0089FF/irfanzahoor" alt="Irfan's contribution graph" />
 
 </div>
 
