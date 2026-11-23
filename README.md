@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089FF,100:7C3AED&height=180&section=header&text=Irfan%20Zahoor&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Frappe%20%2F%20ERPNext%20Developer%20%C2%B7%20Technical%20Consultant&descAlignY=58&descSize=16" width="100%" alt="Irfan Zahoor — Frappe / ERPNext Developer and Technical Consultant" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0089FF&height=180&section=header&text=Irfan%20Zahoor&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20ERP%20Specialist%20%C2%B7%20Frappe%20%2F%20ERPNext&descAlignY=58&descSize=16" width="100%" alt="Irfan Zahoor — Full-Stack Developer & ERP Specialist, Frappe / ERPNext" />
+
+**Building ERP systems businesses actually rely on.**
 
 <p>
-  <a href="https://www.linkedin.com/in/irfan-zahoor395">
+  <a href="https://www.linkedin.com/in/irfan-zahoor555/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:codeboy395@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Lahore,%20Pakistan-1F2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Lahore, Pakistan" />
+  <img src="https://img.shields.io/badge/Remote%20—%20Worldwide-0A2540?style=flat-square" alt="Remote — Worldwide" />
   <img src="https://komarev.com/ghpvc/?username=irfanzahoor&style=flat-square&color=0089FF&label=Profile+Views" alt="Profile views" />
 </p>
 
@@ -28,6 +31,18 @@ My work covers the complete development lifecycle: requirements, architecture, d
 - 🔌 Working with REST APIs, authentication, and third-party integrations
 - 🌐 Building full-stack applications with Python and JavaScript
 - 🗄️ Designing and working with relational and NoSQL databases
+
+**Currently:** Full-Stack Developer at NexTash, Lahore — leading ERP development and deployments. Remote — Worldwide.
+
+---
+
+## What I Do
+
+- **ERPNext Implementation** — setup, configuration, and go-live
+- **Custom Frappe Apps** — custom modules, DocTypes, and reports
+- **Workflow Automation** — approvals, notifications, and business logic
+- **Integrations** — REST APIs, webhooks, and third-party systems
+- **Support & Upgrades** — ERPNext customization, deployment, and optimization
 
 ---
 
@@ -101,13 +116,14 @@ My work covers the complete development lifecycle: requirements, architecture, d
 
 | Project | What It Does |
 | :--- | :--- |
+| **[fmc](https://github.com/irfanzahoor/fmc)** | Food Manufacturing for ERPNext — spice production, batch traceability, quality control, FEFO, shelf-life management, and recipe-based blending |
 | **[Material-Kit](https://github.com/irfanzahoor/Material-Kit)** | Material Design UI kit built for Frappe |
-| **[Data Import — Editable Preview](https://github.com/irfanzahoor/Data-import-editable-preview)** | Lets users fix uploaded data directly in the Frappe import preview, instead of re-uploading a corrected CSV |
 | **[AI Inventory](https://github.com/irfanzahoor/AI-Inventory-)** | Inventory and sales forecasting for ERPNext — stock consumption prediction, reorder alerts, and sales analytics |
-| **[Asset Leasing](https://github.com/irfanzahoor/asset-leasing)** | Equipment and plant hire for ERPNext v16 (lessor side) — short-term hire billed on actual duration, long-term contracts billed monthly |
 | **[Pharma Management](https://github.com/irfanzahoor/pharma_management)** | Pharmacy management module extending ERPNext for pharmaceutical workflows |
+| **[Asset Leasing](https://github.com/irfanzahoor/asset-leasing)** | Equipment and plant hire for ERPNext v16 (lessor side) — short-term hire billed on actual duration, long-term contracts billed monthly |
+| **[POSNext](https://github.com/irfanzahoor/POSNext)** | Modern, high-performance Point of Sale for ERPNext with offline capabilities |
+| **[Data Import — Editable Preview](https://github.com/irfanzahoor/Data-import-editable-preview)** | Lets users fix uploaded data directly in the Frappe import preview, instead of re-uploading a corrected CSV |
 | **[Frappe Bench Tool-Kit](https://github.com/irfanzahoor/tool-kit)** | Bash scripts that automate Frappe Bench setup and dependency installation on Ubuntu |
-| **[Time-Tracker](https://github.com/irfanzahoor/Time-Tracker-)** | Personal life and productivity manager |
 
 ---
 
@@ -115,12 +131,12 @@ My work covers the complete development lifecycle: requirements, architecture, d
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfanzahoor&theme=tokyonight" alt="Irfan's GitHub statistics" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfanzahoor&theme=tokyonight" alt="Top languages by repository" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfanzahoor&theme=tokyonight" alt="Top languages by commit" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfanzahoor&theme=dark" alt="Irfan's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfanzahoor&theme=dark" alt="Top languages by repository" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfanzahoor&theme=dark" alt="Top languages by commit" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=irfanzahoor&theme=tokyonight&hide_border=true&background=0D1117&ring=0089FF&fire=7C3AED&currStreakLabel=0089FF" alt="Contribution streak" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irfanzahoor&theme=tokyonight&utcOffset=5" alt="Productive time of day" />
+<img height="165" src="https://streak-stats.demolab.com/?user=irfanzahoor&theme=dark&hide_border=true&background=0D1117&ring=0089FF&fire=0089FF&currStreakLabel=0089FF" alt="Contribution streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irfanzahoor&theme=dark&utcOffset=5" alt="Productive time of day" />
 
 <img width="100%" src="https://ghchart.rshah.org/0089FF/irfanzahoor" alt="Irfan's contribution graph" />
 
@@ -158,7 +174,7 @@ Open to discussing **ERPNext / Frappe projects** · **custom software** · **int
 <a href="mailto:codeboy395@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Irfan" />
 </a>
-<a href="https://www.linkedin.com/in/irfan-zahoor395">
+<a href="https://www.linkedin.com/in/irfan-zahoor555/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -168,4 +184,4 @@ Open to discussing **ERPNext / Frappe projects** · **custom software** · **int
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0089FF&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0089FF&height=120&section=footer" width="100%" alt="" />
