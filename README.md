@@ -34,6 +34,29 @@ My work covers the complete development lifecycle: requirements, architecture, d
 
 **Currently:** Full-Stack Developer at NexTash, Lahore — leading ERP development and deployments. Remote — Worldwide.
 
+**Currently building:** `fmc` — Food Manufacturing for ERPNext v16, and `POSNext` — modern Point of Sale for ERPNext.
+
+---
+
+## Experience
+
+| Role | Where | When |
+| :--- | :--- | :--- |
+| **Full-Stack Developer** | NexTash, Lahore — On-site | Mar 2022 — Present |
+| **ERP Specialist** | NexTash — ERP development & deployments | 4+ years |
+
+Leading ERP development and deployments at NexTash — custom ERP modules, workflow automation, and cross-platform applications with Python, JavaScript, TypeScript, Frappe, and ERPNext.
+
+---
+
+## How I Work
+
+1. **Understand** — your real workflow first, not just the software
+2. **Build standard-first** — ERPNext standard features before custom code
+3. **Customize only where needed** — clean, upgrade-safe custom apps
+4. **Test & go live** — with training and documentation
+5. **Support after go-live** — fixes, upgrades, and improvements
+
 ---
 
 ## What I Do
@@ -114,16 +137,18 @@ My work covers the complete development lifecycle: requirements, architecture, d
 
 ## Featured Work
 
-| Project | What It Does |
-| :--- | :--- |
-| **[fmc](https://github.com/irfanzahoor/fmc)** | Food Manufacturing for ERPNext — spice production, batch traceability, quality control, FEFO, shelf-life management, and recipe-based blending |
-| **[Material-Kit](https://github.com/irfanzahoor/Material-Kit)** | Material Design UI kit built for Frappe |
-| **[AI Inventory](https://github.com/irfanzahoor/AI-Inventory-)** | Inventory and sales forecasting for ERPNext — stock consumption prediction, reorder alerts, and sales analytics |
-| **[Pharma Management](https://github.com/irfanzahoor/pharma_management)** | Pharmacy management module extending ERPNext for pharmaceutical workflows |
-| **[Asset Leasing](https://github.com/irfanzahoor/asset-leasing)** | Equipment and plant hire for ERPNext v16 (lessor side) — short-term hire billed on actual duration, long-term contracts billed monthly |
-| **[POSNext](https://github.com/irfanzahoor/POSNext)** | Modern, high-performance Point of Sale for ERPNext with offline capabilities |
-| **[Data Import — Editable Preview](https://github.com/irfanzahoor/Data-import-editable-preview)** | Lets users fix uploaded data directly in the Frappe import preview, instead of re-uploading a corrected CSV |
-| **[Frappe Bench Tool-Kit](https://github.com/irfanzahoor/tool-kit)** | Bash scripts that automate Frappe Bench setup and dependency installation on Ubuntu |
+| Project | What It Does | ERPNext |
+| :--- | :--- | :---: |
+| **[fmc](https://github.com/irfanzahoor/fmc)** ⭐ 19 | Food Manufacturing for ERPNext — spice production, batch traceability, quality control, FEFO, shelf-life management, and recipe-based blending | v16 |
+| **[Material-Kit](https://github.com/irfanzahoor/Material-Kit)** ⭐ 6 | Material Design UI kit built for Frappe | — |
+| **[AI Inventory](https://github.com/irfanzahoor/AI-Inventory-)** | Inventory and sales forecasting for ERPNext — stock consumption prediction, reorder alerts, and sales analytics | — |
+| **[Pharma Management](https://github.com/irfanzahoor/pharma_management)** | Pharmacy management module extending ERPNext for pharmaceutical workflows | v14 / v15 |
+| **[Asset Leasing](https://github.com/irfanzahoor/asset-leasing)** | Equipment and plant hire for ERPNext v16 (lessor side) — short-term hire billed on actual duration, long-term contracts billed monthly | v16 |
+| **[POSNext](https://github.com/irfanzahoor/POSNext)** | Modern, high-performance Point of Sale for ERPNext with offline capabilities | v15+ |
+| **[Data Import — Editable Preview](https://github.com/irfanzahoor/Data-import-editable-preview)** | Lets users fix uploaded data directly in the Frappe import preview, instead of re-uploading a corrected CSV | — |
+| **[Frappe Bench Tool-Kit](https://github.com/irfanzahoor/tool-kit)** | Bash scripts that automate Frappe Bench setup and dependency installation on Ubuntu | — |
+
+> ⭐ = stars on GitHub, as of Nov 2026. `fmc` is my most-starred open-source ERPNext app.
 
 ---
 
@@ -170,6 +195,8 @@ My work covers the complete development lifecycle: requirements, architecture, d
 <div align="center">
 
 Open to discussing **ERPNext / Frappe projects** · **custom software** · **integrations** · **technical consulting** · **full-stack development**
+
+Have an ERPNext project in mind? Email me — I usually reply within one working day.
 
 <a href="mailto:codeboy395@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Irfan" />
